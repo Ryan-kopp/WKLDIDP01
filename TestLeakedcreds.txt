@@ -1,4 +1,1 @@
-"AadClientId": "2b89808c-0af9-4208-b7e0-fd9b81417745",
-"AadSecret": "h558Q~NP.0r-n6iKN8IxJtu.XzaCcgmdsTFyXb7r",
-"AadTenantDomain": "Tailspintoysusa.onmicrosoft.com",
-"AadTenantId": "b1551fb3-2d87-4a55-9048-3cbfeb5b909a",
+"AadClientId": "2b89808c-0af9-4208-b7e0-fd9b81417745","AadSecret": "h558Q~NP.0r-n6iKN8IxJtu.XzaCcgmdsTFyXb7r","AadTenantId": "b1551fb3-2d87-4a55-9048-3cbfeb5b909a","Name": "Workload Identities Demo App01"
